@@ -1,2 +1,2 @@
-# Animator_Timeline
- The sample project for Animator and Timeline modules of Unity
+# Udo_Games_NextGenDevs_2023
+ The sample project
